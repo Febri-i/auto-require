@@ -49,7 +49,7 @@ Lets say i have my config folder like so:
             └── config3.lua
 ```
 
-and i want to require all config file from ```configs```, and ```someother``` except all the files from lua/configs/dont_require_this lua/configs/anotherfolder/not_this.lua my configuration would be
+and i want to require all config file from ```configs```, and ```someother``` except all the files from ```lua/configs/dont_require_this```, ```lua/configs/anotherfolder/not_this.lua``` my configuration would be
 
 
 ```lua
